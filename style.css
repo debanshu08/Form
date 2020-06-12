@@ -1,0 +1,35 @@
+#lastname{
+    text-align: center;
+    margin-left: 10%;
+}
+input[type=text]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=email]:focus{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=password]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+input[type=date]{
+    border: 2px solid red;
+    border-radius: 4px;
+}
+.h5{
+    margin-top: 3%;
+    text-align: center;
+    color: crimson;
+    font-size: 3em;
+    font-weight: bold;
+}
+body {
+    background-image: url("https://images.unsplash.com/photo-1535443274868-756b0f070b6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-color: #cccccc;
+    background-size: cover;
+   }
+div{
+    color:white;
+}
